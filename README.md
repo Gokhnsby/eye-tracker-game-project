@@ -4,7 +4,10 @@ Playing games with eye movements is a very interesting topic and eye trackers ar
 
 *This was my second year project in university. 
 
-
 ![image](https://user-images.githubusercontent.com/48862948/104088799-7c4f6d80-527a-11eb-931d-73e167d4cd12.png)
 
 ![image](https://user-images.githubusercontent.com/48862948/104088759-19f66d00-527a-11eb-906e-19341ea0847e.png)
+
+![image](https://user-images.githubusercontent.com/48862948/104088836-b91b6480-527a-11eb-8b9e-24019c2db4fc.png)
+
+![image](https://user-images.githubusercontent.com/48862948/104088852-c89aad80-527a-11eb-89c0-d95fdd090384.png)
